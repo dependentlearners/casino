@@ -1,0 +1,12 @@
+com\dependentlearners\casino\simplegames\slot\controller\SlotGameExceptionHandler.class
+com\dependentlearners\casino\simplegames\slot\representation\SlotGameRepresentation.class
+com\dependentlearners\casino\simplegames\slot\service\SlotGameServiceImpl.class
+com\dependentlearners\casino\simplegames\slot\representation\PlayRepresentation.class
+com\dependentlearners\casino\simplegames\slot\repo\SlotGameFreeRoundRepository.class
+com\dependentlearners\casino\simplegames\slot\controller\SlotGameController.class
+com\dependentlearners\casino\simplegames\slot\service\SlotGameService.class
+com\dependentlearners\casino\simplegames\slot\util\SlotGameConstants.class
+com\dependentlearners\casino\simplegames\slot\util\SlotGameType.class
+com\dependentlearners\casino\simplegames\slot\representation\ErrorRepresentation.class
+com\dependentlearners\casino\simplegames\slot\representation\BalanceRepresentation.class
+com\dependentlearners\casino\simplegames\slot\SlotGameApplication.class

@@ -1,0 +1,5 @@
+com\dependentlearners\casino\simplegames\common\service\OddsCalculatorService.class
+com\dependentlearners\casino\simplegames\common\util\RandomRangeGenerator.class
+com\dependentlearners\casino\simplegames\common\repo\GameBalanceRepository.class
+com\dependentlearners\casino\simplegames\common\util\RandomNumberGenerator.class
+com\dependentlearners\casino\simplegames\common\entity\BalanceEntity.class
